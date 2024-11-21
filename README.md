@@ -10,19 +10,23 @@ This is a submission for the write-up contest being organised as part of the [Ha
 
 ## Team Information
 
-| \<Team name on CTFD\>  | \<X\> members |
+| \<team-name-on-ctfd\>  | \<X\> members |
 | ------------- | ------------- |
-| Name of member | GitHub ID  |
-| Name of member | GitHub ID  |
-| Name of member | GitHub ID  |
-| Name of member | GitHub ID  |
+| \<name-of-member\> | [\<github-username\>](\<github-profile-URL>\) |
+| \<name-of-member\> | [\<github-username\>](\<github-profile-URL>\) |
+| \<name-of-member\> | [\<github-username\>](\<github-profile-URL>\) |
+| \<name-of-member\> | [\<github-username\>](\<github-profile-URL>\) |
 
+<!-- @DONOTEDIT -->
 ## Write-up Index
-- [Challenge one](content/challenge-one.md) || [View on CTFD]()
-- [Challenge one](content/challenge-one.md) || [View on CTFD]()
-- [Challenge one](content/challenge-one.md) || [View on CTFD]()
-- [Challenge one](content/challenge-one.md) || [View on CTFD]()
-- ...
+- [Gettin' Groceries](getting-groceries/README.md) || [View on CTFD](https://54.227.22.252/challenges#Gettin'%20Groceries-1)
+- [The Setup](the-setup/README.md)
+- [Connoisseur](connoisseur/README.md)
+- [Extraction](extraction/README.md)
+- [Blind Sided](extraction/README.md)
+- [Endgame](extraction/README.md)
+- [A Familiar Place](extraction/README.md)
+<!-- @ENDDONOTEDIT -->
 
 <!-- @DONOTEDIT -->
 ------
