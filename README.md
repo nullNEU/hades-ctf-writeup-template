@@ -2,7 +2,7 @@
 
 <!-- THIS NOTE SHOULD BE REMOVED IN YOUR SUBMISSION -->
 > [!NOTE]
-> This is a template repository for the write-up contest being organised as part of the [Hades CTF by null NEU](https://www.linkedin.com/posts/null-neu_hadesctf-cybersecuritychallenge-hackingcompetition-activity-7263008375825657858-sLzg?utm_source=share&utm_medium=member_desktop) on 22 November 2024.
+> This is a template repository for the write-up contest being organised as part of the [Hades CTF by null NEU](https://www.linkedin.com/posts/null-neu_hadesctf-cybersecuritychallenge-hackingcompetition-activity-7263008375825657858-sLzg?utm_source=share&utm_medium=member_desktop) on 22 November 2024. ([View guidelines](GUIDELINES.md))
 
 <!-- @DONOTEDIT -->
 This is a submission for the write-up contest being organised as part of the [Hades CTF by null NEU](https://www.linkedin.com/posts/null-neu_hadesctf-cybersecuritychallenge-hackingcompetition-activity-7263008375825657858-sLzg?utm_source=share&utm_medium=member_desktop) on 22 November 2024.
